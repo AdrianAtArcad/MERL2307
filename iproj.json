@@ -10,7 +10,7 @@
     "extensions": {
         "arcad": {
             "code": "ROHA",
-            "libraryPrefix": "RMH",
+            "libraryPrefix": "ROH",
             "iasp": "*SYSBAS",
             "validated": true
         }
