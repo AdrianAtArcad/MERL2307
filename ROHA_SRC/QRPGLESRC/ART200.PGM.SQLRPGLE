@@ -4,12 +4,12 @@
 
      h dftactgrp(*no) bnddir('SAMPLE')
 
-     farticle2  if   e           k disk    rename(farti:farti2)
-     farticle1  uf a e           k disk
-     fart200d   cf   e             workstn
-     F                                     indds(indds)
-     F                                     sfile(sfl01:rrn01)
-     F                                     Infds(Info)
+     f*article2  if   e           k disk    rename(farti:farti2)
+     f*article1  uf a e           k disk
+     f*art200d   cf   e             workstn
+     F*                                     indds(indds)
+     F*                                     sfile(sfl01:rrn01)
+     F*                                     Infds(Info)
 
       /COPY ../QPROTOSRC/FAMILLY.RPGLEINC
 
