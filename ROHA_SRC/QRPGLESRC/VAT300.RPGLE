@@ -3,7 +3,7 @@
       *%EMETADATA                                                                         *
      h nomain
 
-     FVATDEF    if   e           k disk    usropn
+     F*VATDEF    if   e           k disk    usropn
 
       /COPY ../QPROTOSRC/VAT.RPGLEINC
 
